@@ -22,6 +22,5 @@ Teeth app backend part. </br>
 $ npm run dev
 
 # production mode
-# before start you need to build the app
 $ npm run start
 ```
